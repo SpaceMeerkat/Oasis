@@ -3,7 +3,7 @@
 """
 Created on Wed May  1 10:33:09 2019
 
-@author: jamesdawson
+@author: SpaceMeerkat
 """
 #=============================================================================#
 #///   IMPORT RELEVANT PACKAGES   ////////////////////////////////////////////#
